@@ -1,15 +1,15 @@
 {
-	"name" : "yadng",
+	"name" : "dng",
 	"version" : "0.3.2",
 	"repository" : {
 		"type" : "git",
-		"url" : "git://github.com/hr6r/yadng.git"
+		"url" : "git://github.com/JusMave/dng.git"
 	},
-	"author" : "hr6r",
+	"author" : "JusMave",
 	"bugs" : {
-		"url" : "https://github.com/hr6r/yadng/issues"
+		"url" : "https://github.com/JusMave/dng/issues"
 	},
-	"homepage" : "https://github.com/hr6r/yadng",
+	"homepage" : "https://github.com/JusMave/dng",
 	"devDependencies" : {
 		"grunt" : "~0.4.2",
 		"grunt-contrib-jshint" : "~0.8.0"

@@ -1,5 +1,5 @@
 {
-	"manifest_version" : 2,
+	"manifest_version" : 3,
 	"name" : "Yet Another Drag and Go",
 	"short_name" : "yadng",
 	"version" : "0.3.3",
@@ -11,9 +11,8 @@
 		"128" : "img/yadng_128.png"
 	},
 	"author" : "hr6r",
-	"background" : {
-		"scripts" : ["common.js", "yadng.js"],
-		"persistent" : false
+	"background": {
+		"service_worker": "background.js"
 	},
 	"content_scripts" : [{
 				"matches" : ["http://*/*", "https://*/*", "ftp://*/*"],
