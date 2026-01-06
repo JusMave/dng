@@ -1,9 +1,7 @@
-# Yet Another Drag and Go #
+# Drag and Go #
 **The Drag&Drop Extension for Google Chrome**
 
 Drag URL to open at Back/Front, Before/After; Drag text to 4 directions to search by using different search-engines.
-
-[Install Via Google Web Store](https://chrome.google.com/webstore/detail/hnoonkgmmnklbdehoepdjcidhjbncjmi/)
 
 ## Changelog ##
 **v0.3.2**
